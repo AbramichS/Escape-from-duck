@@ -1,4 +1,4 @@
-# Escape from Duck
+# Escape from Duck Version 1.0
 created by AbramichS (Sargis Grigoryan) (:
 IF WASD IS NOT WORKING , TURN OFF CAPS LOCK
 
